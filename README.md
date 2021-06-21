@@ -2,4 +2,8 @@
 
 > https://api-premier.herokuapp.com/tabela
 
-red > Status: Desenvolvimento
+> Status: Desenvolvimento
+
+<h2>Tabelas disponiveis</h2>
+
++ Premier league
