@@ -13,7 +13,7 @@
 <h2>Como usar?</h2>
 <b>Para usar é simples</b>
 <br>
-<b>Use a url da API é depois de tabela, coloque a tabela que você deseja pegar</b>
+<b>Use a url da API é depois do /tabela, coloque a tabela que você deseja pegar</b>
 <br>
 <h3>Exemplo:</h3>
 
