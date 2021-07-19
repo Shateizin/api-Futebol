@@ -8,9 +8,21 @@
 
 + Premier league
 
-<h2>Serão adicionadas</h2>
-
 + La liga
 
-+ Brasileirão
+<h2>Como usar?</h2>
+<b>Para usar é simples</b>
+<br>
+<b>Use a url da API é depois de tabela, coloque a tabela que você deseja pegar</b>
+<br>
+<h3>Exemplo:</h3>
+
+> https://api-premier.herokuapp.com/tabela/premier
+
+<b>Para ver a tabela da premier league</b>
+
+> https://api-premier.herokuapp.com/tabela/laliga
+
+<b>Para ver a tabela da la liga
+
 
